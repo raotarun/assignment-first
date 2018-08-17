@@ -1,6 +1,6 @@
 
-git config --global user.name"viney20"
-git config --global user.email"viney1962.cse16@chikara.edu.in"
+git config --global user.name"raotarun"
+git config --global user.email"raosaab414@gmail.com"
 
 git init  
 
